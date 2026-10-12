@@ -1,0 +1,13 @@
+
+employee_id,name,department,salary,city
+101,Amit,IT,45000,Pune
+102,Neha,HR,35000,Mumbai
+103,Rahul,IT,55000,Pune
+104,Priya,Finance,40000,Mumbai
+105,Sameer,IT,60000,Pune
+106,Anjali,HR,32000,Pune
+107,Rohan,Finance,50000,Mumbai
+108,Kiran,,38000,Pune
+109,Meera,,38000,Mumbai
+103,Rahul,IT,55000,Pune
+110,Arjun,IT,25000,Pune
